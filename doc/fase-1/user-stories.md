@@ -15,6 +15,8 @@
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | G0001 | Geregistreerd gebruiker | kunnen uitloggen | kan inloggen als op een ander account | | Must have | TODO |
+| G0002 | Geregistreerd gebruiker | hetzelfde kunnen als normale gebruikers | hetzlefde kan doen | | Must have | TODO |
+
 
 
 ##### Admins
