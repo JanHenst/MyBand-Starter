@@ -1,31 +1,28 @@
 # User stories
 
-Gebruik bijvoorbeeld het format van deze [voorbeeld spreadsheet]
-Dit mag hier ook als los spreadsheet bestand worden neergezet.
-
-[voorbeeld spreadsheet]: <https://www.mountaingoatsoftware.com/blog/a-sample-format-for-a-spreadsheet-based-product-backlog>
-
-**Bijvoorbeeld**
-
 ###### Anonieme gebruikers
 
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
 | U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
+| U0003 | Gebruiker | de agenda van evenementen kunnen zien | weet wanneer het volgende evenement gebeurd | | Must have | TODO |
+| U0004 | Gebruiker | de inhoud kunnen opzoeken | gemakkelijk de informatie die ik zoek kan vinden | | Must have | TODO |
+
 
 
 ###### Geregistreerde gebruikers
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | mijn profiel foto kunnen aanpassen | zodat ik mezelf goed kan presenteren | | Must have | TODO |
+| G0001 | Geregistreerd gebruiker | kunnen uitloggen | kan inloggen als op een ander account | | Must have | TODO |
 
 
 ##### Admins
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| B0001 | Admin | een overzicht van alle gebruikers | zodat ik deze kan beheren | | Must have | TODO |
-| B0002 | Admin | een account kunnen disablen | zodat ik controle heb over wie er in kan loggen | | Must have | TODO |
+| B0001 | Admin | een overzicht van alle gebruikers | deze kan beheren | | Must have | TODO |
+| B0002 | Admin | een account kunnen deleten | users die er niet horen weg kan halen | | Should have | TODO |
+| B0003 | Admin | een account hebben op cms | alleen zelf de pagina kan bewerken | | Should have | TODO |
 
 
 
