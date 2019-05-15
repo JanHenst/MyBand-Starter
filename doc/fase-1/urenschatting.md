@@ -1,3 +1,3 @@
 # Urenschatting
 
-24 uur
+1 week 
