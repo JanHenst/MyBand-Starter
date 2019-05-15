@@ -1,3 +1,3 @@
 # Urenschatting
 
-10 uur 
+24 uur
