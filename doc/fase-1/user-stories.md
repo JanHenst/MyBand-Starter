@@ -4,7 +4,7 @@
 
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| U0001 | Gebruiker | de laatste nieuwberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
+| U0001 | Gebruiker | de laatste nieuwsberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
 | U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
 | U0003 | Gebruiker | de agenda van evenementen kunnen zien | weet wanneer het volgende evenement gebeurd | | Must have | TODO |
 | U0004 | Gebruiker | de inhoud kunnen opzoeken | gemakkelijk de informatie die ik zoek kan vinden | | Must have | TODO |
