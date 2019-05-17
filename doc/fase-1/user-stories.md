@@ -5,7 +5,7 @@
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | U0001 | Gebruiker | de laatste nieuwsberichten zien | op de hoogte kom van wat er is gebeurd | | Must have | TODO |
-| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | TODO |
+| U0002 | Gebruiker | een account aanmaken | toegang krijg tot extra features | | Must have | DONE |
 | U0003 | Gebruiker | de agenda van evenementen kunnen zien | weet wanneer het volgende evenement gebeurd | | Must have | TODO |
 | U0004 | Gebruiker | de inhoud kunnen opzoeken | gemakkelijk de informatie die ik zoek kan vinden | | Must have | TODO |
 
@@ -14,7 +14,7 @@
 ###### Geregistreerde gebruikers
 | # | Als een ... | Wil ik ... | Zodat ik ... | Notities | Prioriteit | Status |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| G0001 | Geregistreerd gebruiker | kunnen uitloggen | kan inloggen als op een ander account | | Must have | TODO |
+| G0001 | Geregistreerd gebruiker | kunnen uitloggen | kan inloggen als op een ander account | | Must have | DONE |
 | G0002 | Geregistreerd gebruiker | hetzelfde kunnen als normale gebruikers | hetzlefde kan doen | | Must have | TODO |
 
 
