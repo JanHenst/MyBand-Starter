@@ -1,10 +1,10 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van Jan van der Henst waar gebruikers kunnen (..nut gebruiker..) bedoeld voor (..doelgroep..)
-De website is enigszins te vergelijken met (..concurrentie1..) of (..concurrentie2..) maar toch anders omdat (..uniek aspect..)
+www.mijnliveomgeving.com is een website van Jan van der Henst waar gebruikers kunnen lezen over een paar SCPs die ik heb uitgekozen dit is bedoeld voor iedereen die interesse heeft in dit.
+De website is enigszins te vergelijken met http://www.scp-wiki.net/ maar toch anders omdat ik ook nog info over de game heb staan.
 
 ### Uniek aan dit concept is: 
  * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (vul hier in, waar jouw site door gaat opvallen, wat zal iedereen onthouden van jouw site?)
+ * tweede u.s.p. (De plaatjes van de SCPs en het "unieke" onderwerp dat je niet vaak ziet)
 
 ---
 #### Milestones 
