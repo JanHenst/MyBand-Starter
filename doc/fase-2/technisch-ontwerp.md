@@ -2,7 +2,11 @@
 links
 
 /home
+
 /information
+
 /game-info
+
 /agenda
+
 /form
