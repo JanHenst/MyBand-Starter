@@ -1,5 +1,5 @@
 ## Titel van jouw website
-www.mijnliveomgeving.com is een website van Jan van der Henst waar gebruikers kunnen lezen over een paar SCPs die ik heb uitgekozen dit is bedoeld voor iedereen die interesse heeft in dit.
+http://janvanderhenst.nl/myband/public/home is een website van Jan van der Henst waar gebruikers kunnen lezen over een paar SCPs die ik heb uitgekozen. Dit is bedoeld voor iedereen die interesse heeft in dit.
 De website is enigszins te vergelijken met http://www.scp-wiki.net/ maar toch anders omdat ik ook nog info over de game heb staan.
 
 ### Uniek aan dit concept is: 
