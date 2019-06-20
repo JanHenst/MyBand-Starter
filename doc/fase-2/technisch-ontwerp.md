@@ -1,5 +1,5 @@
 # Technisch ontwerp
-links
+Links:
 
 /home <br>
 /information <br>
