@@ -1,8 +1,8 @@
 # Technisch ontwerp
 links
 
-/home
-/information
-/game-info
-/agenda
-/form
+/home <br>
+/information <br>
+/game-info <br>
+/agenda <br> 
+/form <br>
