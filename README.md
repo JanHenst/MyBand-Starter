@@ -3,8 +3,8 @@ http://janvanderhenst.nl/myband/public/home is een website van Jan van der Henst
 De website is enigszins te vergelijken met http://www.scp-wiki.net/ maar toch anders omdat ik ook nog info over de game heb staan.
 
 ### Uniek aan dit concept is: 
- * eerste u.s.p. (vul hier in, waarin jouw site anders is dan alle anderen)
- * tweede u.s.p. (De plaatjes van de SCPs en het "unieke" onderwerp dat je niet vaak ziet)
+Mijn site is anders dan de andere omdat ik ook informatie over de game heb.
+De plaatjes van de SCPs en het "unieke" onderwerp dat je niet vaak ziet
 
 ---
 #### Milestones 
