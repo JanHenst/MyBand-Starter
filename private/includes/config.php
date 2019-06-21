@@ -1,15 +1,15 @@
 <?php
 
-//if you're reading this that will mean you gay. except me(jan)
-
 $config = [
     'DB_HOST' => 'localhost',
-    'DB_NAME' => 'u50678p47929_myband',
-    'DB_USER' => 'u50678p47929_jan',
-    'DB_PASSWORD' => 'janjan2002',
+    'DB_NAME' => 'myband',
+    'DB_USER' => 'root',
+    'DB_PASSWORD' => '',
     'ROOT' => dirname(dirname(__DIR__)),
     'PRIVATE' => dirname(__DIR__),
     'WEBROOT' => dirname(dirname(__DIR__)) . '/public'
 ];
 
 return $config;
+
+// ik ga niet mijn online versie van config.php laten zien vanwege prive gegevens.
