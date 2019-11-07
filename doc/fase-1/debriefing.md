@@ -15,6 +15,3 @@ Mijn Debriefing
   De planning op trello zetten en dan gewoon eerst een onderwerp vinden die ik leuk  vind.
   
 
-*Hulp*
-* http://mi.hosts.ma-cloud.nl/iv/fase3/trainingen/briefing_debriefing/
-* [Voorbeeld structuur debriefing](http://members.quicknet.nl/p.devries1/OpzetDebriefing.pdf)
